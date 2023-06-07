@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Tài's memory",
 
-    background: "background.jpg",
+    background: "background2.jpg",
 
     min1: "min1.jpg",
     min2: "min2.jpg",
